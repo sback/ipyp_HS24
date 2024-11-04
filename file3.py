@@ -1,2 +1,2 @@
 print("third file")
-print("it's a lot of fun!")
+print("it's moderate fun!")
